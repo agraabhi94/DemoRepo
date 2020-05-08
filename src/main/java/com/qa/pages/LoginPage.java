@@ -2,9 +2,9 @@ package com.qa.pages;
 
 public class LoginPage {
 	
-	public void homePage() {
+	public void loginPage() {
 		
-		System.out.println("Home Page");
+		System.out.println("Login Page");
 	}
 
 }
